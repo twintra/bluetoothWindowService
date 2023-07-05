@@ -1,0 +1,26 @@
+﻿Installing assembly 'D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.InstallLog
+   assemblypath = D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.exe
+Installing service BluetoothService...
+Service BluetoothService has been successfully installed.
+Creating EventLog source BluetoothService in log Application...
+Committing assembly 'D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.InstallLog
+   assemblypath = D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.exe
+Installing assembly 'D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.InstallLog
+   assemblypath = D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.exe
+Installing service BluetoothService...
+Service BluetoothService has been successfully installed.
+Creating EventLog source BluetoothService in log Application...
+Committing assembly 'D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.InstallLog
+   assemblypath = D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.exe

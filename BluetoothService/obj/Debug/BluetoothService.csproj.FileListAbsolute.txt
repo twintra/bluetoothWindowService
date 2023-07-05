@@ -1,0 +1,15 @@
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.exe
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.exe.config
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\BluetoothService.pdb
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\Newtonsoft.Json.dll
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\System.Runtime.WindowsRuntime.dll
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\Windows.winmd
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\bin\Debug\Newtonsoft.Json.xml
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\obj\Debug\BluetoothService.csproj.AssemblyReference.cache
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\obj\Debug\BluetoothService.csproj.SuggestedBindingRedirects.cache
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\obj\Debug\BluetoothService.ProjectInstaller.resources
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\obj\Debug\BluetoothService.csproj.GenerateResource.cache
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\obj\Debug\BluetoothService.csproj.CoreCompileInputs.cache
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\obj\Debug\BluetoothService.csproj.CopyComplete
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\obj\Debug\BluetoothService.exe
+D:\Coding\c#\AbbotBluetoothDevicesRegisterService\BluetoothService\BluetoothService\obj\Debug\BluetoothService.pdb
